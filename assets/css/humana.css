@@ -2828,6 +2828,14 @@ Created using IcoMoon - icomoon.io
   .fixed-plugin .bootstrap-switch {
     margin: 0; }
 
+@media (max-width: 1199.98px) {
+  .sidebar {
+    background-image: url(../../img/fondo-form.png);
+    background-position: inherit !important;
+    background-repeat: repeat;
+  }
+}
+
 @media screen and (max-width: 991px) {
   .profile-photo .profile-photo-small {
     margin-left: -2px; }
@@ -3052,7 +3060,7 @@ Created using IcoMoon - icomoon.io
   margin-top: 74px;
 }
 .footer {
-  padding: 35px 0;
+  padding: 43px 0;
 }
   .navbar-toggle toggled{
     position: fixed;
@@ -3074,7 +3082,81 @@ Created using IcoMoon - icomoon.io
     .section-nucleo-icons .icons-container i:nth-child(6) {
       font-size: 48px; }
   .page-header .container h6.category-absolute {
-    width: 90%; } }
+    width: 90%; } 
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+    #logo-humana {
+      position: relative;
+      left: -7px !important;
+      top: -6px !important;
+  }
+  .sidebar .sidebar-wrapper, .off-canvas-sidebar .sidebar-wrapper {
+      position: relative;
+      left: 80px !important;
+      padding-top: 34px !important;
+  }
+  .main-panel > .content {
+      margin-top: 15px !important;
+  }
+  .panel-header {
+      padding-top: 122px !important;
+      padding-bottom: 45px !important;
+    
+  }
+  .footer {
+    padding: 60px 0 !important;
+}
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+  .main-panel > .content {
+     padding: 0 30px 30px;
+     min-height: calc(100vh - 123px);
+     margin-top: -8px;
+  }
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+    .sidebar .logo a.logo-mini, .off-canvas-sidebar .logo a.logo-mini {
+        width: 148px;
+        position: relative;
+        right: 6px;
+    }
+    #logo-humana {
+        position: relative !important;
+        left: -11px !important;
+    }
+    .main-panel .content {
+        padding-left: 0px;
+        padding-right: 15px;
+    }
+
+    .main-panel > .content {
+        margin-top: -30px !important;
+    }
+
+    .main-panel {
+        float: none !important; 
+   
+    }
+
+}
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+  
+  .sidebar .sidebar-wrapper, .off-canvas-sidebar .sidebar-wrapper {
+    position: relative;
+    left: 31px;
+    padding-top: 0px !important;
+  }
+  
+  
+  .main-panel > .content {
+       margin-top: -71px !important;
+  }
+}
+
 
 .cuadroInfo1,
 .cuadroInfo2{
