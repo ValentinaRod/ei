@@ -1,0 +1,275 @@
+{
+    "lugares": [
+        {
+            "id" :  "1",
+            "nombre": "Edificio Humana",
+            "tipo": "Departamento",
+            "longitude" : "-70.655716",
+            "latitude": "-33.524259",
+            "direccion": "Av. Fernández Albano Nº 424",
+            "imagen": "https://geo0.ggpht.com/cbk?panoid=qp57MsUQ0Iu_PEJi7JuNCw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=358.9573&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "2",
+            "nombre": "El Señor de los bajones",
+            "tipo": "Restaurant",
+            "longitude" : "-70.6571151",
+            "latitude": "-33.5237263",
+            "direccion": "Av. Fernández Albano Nº127",
+            "imagen": "https://geo0.ggpht.com/cbk?panoid=Occn-XRxaBJj3j7SDQFO3g&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=17.334463&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "3",
+            "nombre": "Almacen La Victoria",
+            "tipo": "Almacén",
+            "longitude" : "-70.6515766",
+            "latitude": "-33.5256554",
+            "direccion": "Covadonga Nº7422",
+            "imagen": "https://geo2.ggpht.com/cbk?panoid=9ohhhIf-guKjCWBenJjS9Q&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=74.63637&pitch=0&thumbfov=100" 
+        },
+        {
+            "id" :  "4",
+            "nombre": "Petrobras",
+            "tipo": "Bomba de bencina",
+            "longitude" : "-70.66028790000001",
+            "latitude": "-33.5234311",
+            "direccion": "Av. Fernández Albano Nº 448",
+            "imagen": "https://geo0.ggpht.com/cbk?panoid=kGnblYa_86vDUCXEVwAQUg&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=338.3565&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "5",
+            "nombre": "Banco Santander",
+            "tipo": "Banco",
+            "longitude" : "-70.6600934",
+            "latitude": "-33.5227513",
+            "direccion": "Gran Avenida José Miguel Carrera Nº 7070",
+            "imagen": "https://geo1.ggpht.com/cbk?panoid=UXzRdFfFSNgQ9ZOva5N5VQ&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=92.52322&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "6",
+            "nombre": "Banco Estado",
+            "tipo": "Banco",
+            "longitude" : "-70.6617195",
+            "latitude": "-33.5265587",
+            "direccion": "Gran Avenida José Miguel Carrera Nº7957",
+            "imagen": "https://geo1.ggpht.com/cbk?panoid=uejx6EmUhfqQb4tyxZJBPg&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=302.30734&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "7",
+            "nombre": "Pastelería El Parrón",
+            "tipo": "Restaurant",
+            "longitude" : "-70.66155930000002",
+            "latitude": "-33.5266176",
+            "direccion": "Gran Avenida Josè Miguel Carrera Nº 7960",
+            "imagen": "https://geo2.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEmYKOAkv3zWk-9pilhEJ4JmXuoCFxRokCxDThbhCGhsSGQoUChIJL981pPvaYpYR6hoL_nCcm3wQmD4MEgoN80IE7BV67eHVGhIJg0LSaQHbYpYR6pqvR-bFZdAqCg3zQgTsFXrt4dUaBgjIARCYAw&gl=CL"
+        },
+        {
+            "id" :  "8",
+            "nombre": "El Glotón",
+            "tipo": "Restaurant",
+            "longitude" : "-70.66135109999999",
+            "latitude": " -33.5264495",
+            "direccion": "Gran Avenida José Miguel Carrera Nº7990",
+            "imagen": "https://geo3.ggpht.com/cbk?panoid=Qr8OeWqMmFEc63A9l61dVA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=91.48075&pitch=0&thumbfov=100" 
+        },
+        {
+            "id" :  "9",
+            "nombre": "El Pollo Urbano",
+            "tipo": "Restaurant",
+            "longitude" : "-70.66107599999998",
+            "latitude": "-33.5266913",
+            "direccion": "Av. el Parrón Nº 15",
+            "imagen": "https://geo2.ggpht.com/cbk?panoid=njbyibMCJwMLI7U6DNVNKw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=180.54855&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "10",
+            "nombre": "Carnicería Santa Ana",
+            "tipo": "Almacen",
+            "longitude" : "-70.66003790000002",
+            "latitude": "-33.5212241",
+            "direccion": "Gran Avenida José Miguel Carrera Nº 7134",
+            "imagen": "https://geo2.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEmYKOAlNA2Yb5dpilhELMESmzREqsxokCxDThbhCGhsSGQoUChIJTQNmG-XaYpYR_609b8lN_yoQ3jcMEgoNLxEF7BVFIuLVGhIJg0LSaQHbYpYR6pqvR-bFZdAqCg0vEQXsFUUi4tUaBgjIARCYAw&gl=CL"
+        },
+        {
+            "id" :  "11",
+            "nombre": "Farmacias Manríquez",
+            "tipo": "Farmacia",
+            "longitude" : "-70.6615021",
+            "latitude": "-33.5261795",
+            "direccion": "Gran Avenida José Miguel Carrera Nº 7877",
+            "imagen": "https://geo2.ggpht.com/cbk?panoid=zEqp7vWzrYHLXSThvgWbWw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=277.48215&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "12",
+            "nombre": "Clínica Veterinaria Gran Avenida",
+            "tipo": "Veterinaria",
+            "longitude" : "-70.66040720000001",
+            "latitude": "-33.5221567",
+            "direccion": "Gran Avenida José Miguel Carrera Nº 7267",
+            "imagen": "https://geo3.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEmYKOAkb8sQp5dpilhG6f8ViFMw_wRokCxDThbhCGhsSGQoUChIJG_LEKeXaYpYRT0skrjwtxVYQ4zgMEgoN7-sE7BXqF-LVGhIJg0LSaQHbYpYR6pqvR-bFZdAqCg3B7ATsFdgT4tUaBgjIARCYAw&gl=CL"
+        },
+        {
+            "id" :  "13",
+            "nombre": "Princess Anne School",
+            "tipo": "Colegio",
+            "longitude" : "-70.66016330000002",
+            "latitude": "-33.52115630000001",
+            "direccion": "Gran Avenida José Miguel Carrera Nº7045",
+            "imagen": "https://geo0.ggpht.com/cbk?panoid=yGmph_h-SMR43rLltgIvvA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=302.97147&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "14",
+            "nombre": "Doryoku-Sushi",
+            "tipo": "Restaurant",
+            "longitude" : "-70.6601738",
+            "latitude": "-33.5215303",
+            "direccion": "Gran Avenida José Miguel Carrera Nº7121",
+            "imagen":"https://geo0.ggpht.com/cbk?panoid=r6mPXkJHU8u-kn_dz2ytXA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=327.20596&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "15",
+            "nombre": "Restaurate El Huaso Y El Inka",
+            "tipo": "Restaurant",
+            "longitude" : "-70.66030849999999",
+            "latitude": "-33.5221295",
+            "direccion": "Gran Avenida José Miguel Carrera Nº 7219",
+            "imagen": "https://geo3.ggpht.com/cbk?panoid=fJnw5lEyYdAi9BEzbcsYSw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=316.68094&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "16",
+            "nombre": "Centro Médico Maiposalud",
+            "tipo": "Salud",
+            "longitude" : "-70.66066089999998",
+            "latitude": "-33.5203559",
+            "direccion": "Gral Freire Nº 067",
+            "imagen": "https://geo3.ggpht.com/cbk?panoid=i1B1q10REWOlD9uCCl3AEA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=20.68107&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "17",
+            "nombre": "Liceo Industrial de Electrotecnia Ramón Barros Luco",
+            "tipo": "Colegio",
+            "longitude" : "-70.65855929999998",
+            "latitude": "-33.5210015",
+            "direccion": "Gral Freire Nº 101",
+            "imagen": "https://geo2.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEmUKNwkvafts5dpilhGERMxOFMeBoBojCxDThbhCGhoSGAoUChIJL2n7bOXaYpYRNE7f8-UE9wsQZQwSCg23HwXsFdld4tUaEgnbESRo5dpilhEwex4DaaTQQSoKDeEZBewVB1zi1RoGCMgBEJgD&gl=CL"
+        },
+        {
+            "id" :  "18",
+            "nombre": "Terra Restobar",
+            "tipo": "Restaurant",
+            "longitude" : "-70.66005100000001",
+            "latitude": "-33.5225533",
+            "direccion": "Gran Avenida José Miguel Carrera Nº 7060",
+            "imagen": "https://geo3.ggpht.com/cbk?panoid=d-lAIRFUuOU5ot44t4lPNQ&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=91.1603&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "19",
+            "nombre": "La Pica Del Sabrosandwich",
+            "tipo": "Restaurant",
+            "longitude" : "-70.655959",
+            "latitude": "-33.5246587",
+            "direccion": "Av. Fernández Albano Nº 347",
+            "imagen": "https://geo2.ggpht.com/cbk?panoid=MDkjT2Y4v7GoxvXnb8sGNg&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=193.67155&pitch=0&thumbfov=100" 
+        },
+        {
+            "id" :  "20",
+            "nombre": "Escuela Futbol",
+            "tipo": "Parque",
+            "longitude" : "-70.65645699999999",
+            "latitude": "-33.5242473",
+            "direccion": "Av. Fernández Albano Nº 7625",
+            "imagen": "https://geo0.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEmYKOAkX0qZx8NpilhEXT322rf6MDxokCxDThbhCGhsSGQoUChIJF9KmcfDaYpYRZsChdzb_gDAQyTsMEgoNF5sE7BUmruLVGhIJE7pgNV_aYpYRByGCnXRfffgqCg0XmwTsFSau4tUaBgjIARCYAw&gl=CL" 
+        },
+        {
+            "id" :  "21",
+            "nombre": "Donde Carlitos",
+            "tipo": "Restaurant",
+            "longitude" : "70.65320159999999",
+            "latitude": "-33.524803",
+            "direccion": "Av. Fernández Albano Nº 648",
+            "imagen": "https://geo2.ggpht.com/cbk?panoid=8XVyIwSUK6XYVmS6rnXhQw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=23.676222&pitch=0&thumbfov=100" 
+        },
+        {
+            "id" :  "22",
+            "nombre": "Parque",
+            "tipo": "Parque",
+            "longitude" : "-70.65411319999998",
+            "latitude": "-33.5249518",
+            "direccion": "Av. Fernández Albano Nº 399",
+            "imagen": "https://geo2.ggpht.com/cbk?panoid=YcuN9-aNM_nJXcBuh5wSVw&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=210.07426&pitch=0&thumbfov=100"
+        },
+        {
+            "id" :  "23",
+            "nombre": "Cancha Fernandez Albano",
+            "tipo": "Parque",
+            "longitude" : "-70.65423450000003",
+            "latitude": "-33.5249795",
+            "direccion": "Av. Fernández Albano Nº 575",
+            "imagen": "https://geo1.ggpht.com/cbk?panoid=QN0meIAkIb8QtnAf5bXHrA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=199.19261&pitch=0&thumbfov=100" 
+        },
+        {
+            "id" :  "",
+            "nombre": "",
+            "tipo": "",
+            "longitude" : "",
+            "latitude": "",
+            "direccion": ""
+        },
+        {
+            "id" :  "25",
+            "nombre": "Chilean Eagles College N 3",
+            "tipo": "Colegio",
+            "longitude" : "-70.65072609999999",
+            "latitude": "-33.5239573",
+            "direccion": "Iquique 7020",
+            "imagen": "https://geo2.ggpht.com/cbk?panoid=BB1u399FezSnrH3V0WMhFA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=114.634926&pitch=0&thumbfov=100"
+
+        },
+        {
+            "id" :  "26",
+            "nombre": "Liceo Salesiano Manuel Arriarán Barros",
+            "tipo": "Colegio",
+            "longitude" : "70.6624033",
+            "latitude": "-33.5303263",
+            "direccion": "Gran Avenida José Miguel Carrera Nº 8250",
+            "imagen": "https://geo2.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEiAKEgmveqXgVdpilhGizwt7aTCPjioKDQAAAAAVAAAAABoGCMgBEJgD&gl=CL"
+        },
+        {
+            "id" :  "27",
+            "nombre": "Colegio Santa Clara",
+            "tipo": "Colegio",
+            "longitude" : "70.65576579999998",
+            "latitude": "-33.525973",
+            "direccion": "Angamos Nº 7550",
+            "imagen": "https://geo2.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEmYKOAnrYvTs8NpilhE0wDcA87IK2BokCxDThbhCGhsSGQoUChIJ62L07PDaYpYRnaDquSSpQEgQ_joMEgoNHFgE7BWWx-LVGhIJV9-4XPDaYpYRqHiQUvZhxlsqCg2uVwTsFSbJ4tUaBgjIARCYAw&gl=CL"
+        },
+        {
+            "id" :  "28",
+            "nombre": "Farmacias Ahumada",
+            "tipo": "Farmacia",
+            "longitude" : "-70.65805009999997",
+            "latitude": "-33.5240484",
+            "direccion": "Av. Fernández Albano Nº 27",
+            "imagen": "https://geo2.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEmUKNwmhllOY-tpilhFOHXAXVQZqIhojCxDThbhCGhoSGAoUChIJoZZTmPraYpYRkO8u0yAffBsQGwwSCg3cogTsFetv4tUaEgkTumA1X9pilhEHIYKddF99-CoKDdyiBOwV62_i1RoGCMgBEJgD&gl=CL" 
+        },
+        {
+            "id" :  "29",
+            "nombre": "Colegio de Ciegos Santa Lucía",
+            "tipo": "Colegio",
+            "longitude" : "70.65163989999996",
+            "latitude": "-33.5236988",
+            "direccion": "Fernando Rioja Nº 730",
+            "imagen": "https://geo0.ggpht.com/maps/photothumb/fd/v1?bpb=ChAKDnNlYXJjaC5UQUNUSUxFEiAKEglBMV2K8dpilhGRYTESXuW31yoKDQAAAAAVAAAAABoGCMgBEJgD&gl=CL"
+        },
+        {
+            "id" :  "30",
+            "nombre": "PAPA JOHN'S",
+            "tipo": "Restaurant",
+            "longitude" : "-70.66036439999999",
+            "latitude": "-33.5236756",
+            "direccion": "Gran Avenida José Miguel Carrera Nº7406",
+            "imagen": "https://geo1.ggpht.com/cbk?panoid=nx7iJO-vM4jnwC90GAU4BA&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=94.855736&pitch=0&thumbfov=100"
+        }
+    ]
+}
+
